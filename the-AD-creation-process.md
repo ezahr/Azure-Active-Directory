@@ -30,9 +30,7 @@ Built for ease of use, Azure Active Directory enables enterprise mobility and co
 ##    Choose a name for the directory that will help distinguish it from your other directories. If the directory you're creating is to be used in production, choose a name for the directory that your users will recognize as the name of your organization. You can change the name later if you want.
 
 
-![tt](../../pictures/create_discipl_aad_00.png)
-
-
+![tt](.//pictures/create_discipl_aad_00.png)
 
 
 ## Enter the domain name associated with it. The domain must not be known to Azure or you will get a validation error. The default domain name will always have the suffix .onmicrosoft.com. While this default domain cannot be changed, later you can add a custom domain owned by your organization so defined users can use a traditional company email such as john@contoso.com.
