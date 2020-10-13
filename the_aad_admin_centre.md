@@ -1,4 +1,4 @@
-
+## https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AzureADConnect
 
 
 ![tt](.//pictures/https-aad-portal-azure-com_01.png)
