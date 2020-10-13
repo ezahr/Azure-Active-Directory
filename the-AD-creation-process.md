@@ -11,12 +11,12 @@ The steps to create a new directory are shown below, however unless you are an o
 
 ##    Sign into the Azure portal .  https://portal.azure.com/#home
 
-![tt](../../pictures/Sign-into-the-Azure-portal-https-porta-azure-com-home.png)
+![tt](..//pictures/Sign-into-the-Azure-portal-https-porta-azure-com-home.png)
 
 ##    Select Create a resource from the left sidebar, Identity from the Azure Marketplace, and then Azure Active Directory from the list.
 
 
-![tt](../../pictures/AZ_resource_Azure_Active_Directory_from_the_list.png)
+![tt](..//pictures/AZ_resource_Azure_Active_Directory_from_the_list.png)
 
 
 ````
@@ -24,7 +24,7 @@ Azure Active Directory is an Identity and Access Management as a service (IDaaS)
 Built for ease of use, Azure Active Directory enables enterprise mobility and collaboration and delivers advanced identity protection through multi-factor authentication (MFA), security reports, audits, alerts and adaptive conditional access policies based on device health, user location and risk level.
 ````
 
-![tt](../../pictures/Identity-and-Access-Management-as-a-service-IDaaS.png)
+![tt](..//pictures/Identity-and-Access-Management-as-a-service-IDaaS.png)
 
     
 ##    Choose a name for the directory that will help distinguish it from your other directories. If the directory you're creating is to be used in production, choose a name for the directory that your users will recognize as the name of your organization. You can change the name later if you want.
