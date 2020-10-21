@@ -83,3 +83,20 @@ Thank you.
 
 ![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding21.png)
 
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding22.png)
+
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding23.png)
+
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding24.png)
+
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding25.png)
+
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding26.png)
+
+![tt](.//pictures/PORTAL_AAD_IAM_configure_company_branding27.png)
+
+
+
+
+
+
