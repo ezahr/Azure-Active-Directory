@@ -97,6 +97,10 @@ Thank you.
 
 
 
+https://en.wikipedia.org/wiki/Domain_name_registrar
+
+A domain name registry is a database of all domain names and the associated registrant information in the top level domains of the Domain Name System (DNS) of the Internet that enables third party entities to request administrative control of a domain name. Most registries operate on the top-level and second-level of the DNS. 
+
 
 
 
