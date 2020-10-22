@@ -18,7 +18,7 @@
 ## portal.azure.com/#blade/Microsoft_AAD_IAM
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)
-![overview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Overview.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Overview.png)
 
 
 [getting started](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/QuickStart)
