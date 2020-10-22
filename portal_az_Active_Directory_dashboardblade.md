@@ -102,23 +102,23 @@
 #### Activity
 
 [privilegde access ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/EnablePrivilegedAccessGroups)
-![privilegde access ](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_EnablePrivilegedAccessGroups.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_EnablePrivilegedAccessGroups.png)
 
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AccessReviews)
-![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AccessReviews.png)    
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AccessReviews.png)    
 
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/Audit)
-![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Audit.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Audit.png)
 
 
 [bulk operation results](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/GroupBackgroundTasks)
-![bulk operation results](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_GroupBackgroundTasks.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_GroupBackgroundTasks.png)
 
 
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/supportRequest)
-![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_supportRequest.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_supportRequest.png)
 
 ## External identities
 
