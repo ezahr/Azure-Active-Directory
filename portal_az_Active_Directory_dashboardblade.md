@@ -25,10 +25,10 @@
 ![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_QuickStart.png)
 
 [PreviewHub](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PreviewHub)
-![PreviewHub](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PreviewHub.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PreviewHub.png)
 
 [diagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose)
-![diagnose](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_diagnose.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_diagnose.png)
 
 # manage
 
