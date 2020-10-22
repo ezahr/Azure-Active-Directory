@@ -14,7 +14,17 @@ ABC lijkt minder problemen te scheppen, maar de inzet van ABC-toepassingen hangt
 De verwarring rond consent hangt mogelijk samen met het feit dat voor gebruikers, dienstverleners en informatici het verrichten van een feitelijke handeling, zoals het klikken op een button, gelijk staat aan het geven van consent. Juridisch gezien ligt dat echter niet voor de hand
 Bij ABC-systemen lijkt een evenwichtige afweging te zijn ingebouwd die de relationele aard van persoonsgegevens bevestigt en naïef soevereiniteitsdenken voorkomt
 
+## Beveilig uw toepassingen door verificatie naar Azure AD te verplaatsen
+Als uw organisatie momenteel Active Directory Federation Services (AD FS) gebruikt om aanmelding bij cloud-apps mogelijk te maken, kunt u upgraden naar Azure AD om het beheer te vereenvoudigen en uw on-premises footprint te verkleinen.
+[Meer informatie over migratie naar Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources)
 
+
+Installeer AD FS Connect Health om aan de slag te gaan
+Installeer eerst AD FS Connect Health op uw AD FS-servers om aan de slag te gaan. AD FS Connect Health helpt niet alleen bij het migreren van apps naar Azure AD, maar biedt ook:
+AD FS-waarschuwingen
+AD FS-analyse
+Prestatie monitoring
+Mislukte aanmeldingsgegevens
 
 
 
