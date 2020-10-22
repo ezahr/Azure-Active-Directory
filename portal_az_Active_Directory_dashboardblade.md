@@ -3,15 +3,17 @@
 
 ![tt](.//pictures/ezahr_your_repositories.png)
 
+
+![tt](.//pictures/azure_active_directory_04.png)
+
+![tt](.//pictures/azure_active_directory_03.png)
+
+
 ![tt](.//pictures/azure_active_directory_00.png)
 
 ![tt](.//pictures/azure_active_directory_01.png)
 
 ![tt](.//pictures/azure_active_directory_02.png)
-
-![tt](.//pictures/azure_active_directory_03.png)
-
-![tt](.//pictures/azure_active_directory_04.png)
 
 
 
@@ -34,21 +36,21 @@
 
 ## users
 [allusers preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphUsers)
-![allusers preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphUsers.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphUsers.png)
 
 [deleted users preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphDeletedUsers)
-![deleted users preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphDeletedUsers.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphDeletedUsers.png)
 
 
 [password reset](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/PasswordReset)
-![password reset](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_PasswordReset.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_PasswordReset.png)
 
 [user settings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)
-![user settings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserSettings.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserSettings.png)
 
 
 [diagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/diagnose)
-![diagnose](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_diagnose.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_diagnose.png)
 
 
 [signins](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/SignIns)
