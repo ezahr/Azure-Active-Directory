@@ -10,14 +10,13 @@ Directory (Azure AD) is de cloudgebaseerde service voor identiteits- en toegangs
 SSI zou het beheer van persoonsgegevens mogelijk moeten maken voor ‘gebruikers’, door die gegevens op te slaan op een blockchain en degene wiens gegevens het betreft de sleutel te geven waarmee anderen toegang kunnen verkrijg.  De I van SSI gaat niet over identiteit, maar over data die identificatie mogelijk maakt, dat wil zeggen data die het mogelijk maakt een persoon als uniek te onderscheiden van andere personen. Of data identificatie mogelijk maakt, verschilt per context
 De beginselen van Allen zijn ontroerend in termen van goede bedoelingen maar geven weinig inzicht in wat SSI nu ei
 ABC richt zich, anders dan SSI, niet alleen naar de wensen van de betrokkene. Naast de beperking van dataverwerking tot hetgeen noodzakelijk is gezien het verwerkingsdoel, richt ABC zich ook op de betrouwbaarheid van de verstrekte attributen. Een probleem dat noch SSI- noch ABC-systemen kunnen oplossen is de handel in gedragsgegevens. En laat dat nu juist één van de cruciale pijnpunten zijn van de huidige, gemankeerde informatieomgeving. Gedragsdata bestaat niet uit attributen die we zelfstandig ‘uploaden’ in de SSI- of ABC-applicatie. Integendeel, deze data wordt door anderen ‘gevangen’ op basis van spyware
-ABC lijkt minder problemen te scheppen, maar de inzet van ABC-toepassingen hangt net als bij SSI af van de beschikbaarheid van een infrastructuur die ABC mogelijk maakt
-De verwarring rond consent hangt mogelijk samen met het feit dat voor gebruikers, dienstverleners en informatici het verrichten van een feitelijke handeling, zoals het klikken op een button, gelijk staat aan het geven van consent. Juridisch gezien ligt dat echter niet voor de hand
+ABC lijkt minder problemen te scheppen, maar de inzet van ABC-toepassingen hangt net als bij SSI af van de beschikbaarheid van een infrastructuur die ABC mogelijk maakt De verwarring rond consent hangt mogelijk samen met het feit dat voor gebruikers, dienstverleners en informatici het verrichten van een feitelijke handeling, zoals het klikken op een button, gelijk staat aan het geven van consent. Juridisch gezien ligt dat echter niet voor de hand
 Bij ABC-systemen lijkt een evenwichtige afweging te zijn ingebouwd die de relationele aard van persoonsgegevens bevestigt en naïef soevereiniteitsdenken voorkomt
 
 ## Beveilig uw toepassingen door verificatie naar Azure AD te verplaatsen
 Als uw organisatie momenteel Active Directory Federation Services (AD FS) gebruikt om aanmelding bij cloud-apps mogelijk te maken, kunt u upgraden naar Azure AD om het beheer te vereenvoudigen en uw on-premises footprint te verkleinen.
 [Meer informatie over migratie naar Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources)
-
+https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Insights
 
 Installeer AD FS Connect Health om aan de slag te gaan
 Installeer eerst AD FS Connect Health op uw AD FS-servers om aan de slag te gaan. AD FS Connect Health helpt niet alleen bij het migreren van apps naar Azure AD, maar biedt ook:
