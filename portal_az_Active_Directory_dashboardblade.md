@@ -73,29 +73,29 @@
 ## groups
 
 [all groups](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups)
-![all groups](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AllGroups.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AllGroups.png)
 
 
 [deleted groups](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/DeletedGroups)
-![deleted groups](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_DeletedGroups.png)
+![tt](.//pictures/)
 
 
 
 [diagnose and solve problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/diagnose)
-![diagnose and solve problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_diagnose.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_diagnose.png)
 
 
 #### settings
 
 [settings general](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/General)
-![settings general](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_General.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_General.png)
 
 [settings expiration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/Lifecycle)
-![settings expiration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Lifecycle.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Lifecycle.png)
 
 
 [settings naming policy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/NamingPolicy)
-![settings naming policy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_NamingPolicy.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_NamingPolicy.png)
 
 
 
