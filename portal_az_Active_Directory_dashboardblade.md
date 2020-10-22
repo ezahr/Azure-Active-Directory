@@ -123,17 +123,17 @@
 ## External identities
 
 [getting started](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/ExternalIdentitiesGettingStarted)
-![getting started](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_ExternalIdentitiesGettingStarted.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_ExternalIdentitiesGettingStarted.png)
 
 [All identity providers](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/IdentityProviders)
-![All identity providers](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_IdentityProviders.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_IdentityProviders.png)
 
 
 [external collaboration setting](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/Settings)
-![external collaboration setting](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_Settings.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_Settings.png)
 
 [diagnose and problem solving](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/diagnose)
-![diagnose and problem solving](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_diagnose.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_diagnose.png)
 
 ### Self-service sign up
 
