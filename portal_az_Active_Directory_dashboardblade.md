@@ -52,20 +52,21 @@
 [diagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/diagnose)
 ![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_diagnose.png)
 
+### activity 
 
 [signins](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/SignIns)
-![signins](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_SignIns.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_SignIns.png)
 
 [audit log](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/Audit)
-![audit log](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_Audit.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_Audit.png)
 
 
 [bulkoperations results](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserBackgroundTasks)
-![bulkoperations results](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserBackgroundTasks.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserBackgroundTasks.png)
 
 
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/supportRequest)
-![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_supportRequest.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_supportRequest.png)
 
 
 
