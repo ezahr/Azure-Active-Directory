@@ -26,7 +26,20 @@ Prestatie monitoring
 Mislukte aanmeldingsgegevens
 
 
+For those of you using Azure Active Directory (which includes everyone using Office 365), a number of capabilities enable remote work while helping you keep your organization secured.
 
+ 
+
+|nr||Here are our top five recommendations for enabling remote work:|
+|------------|-------------------------------------------------------------------------| 
+| 1. | Use a common collaboration tool (like Microsoft Teams, Cisco Webex, Slack, Workplace by Facebook or Zoom) If your company hasn’t already broadly adopted a collaboration tool, standardizing on a common platform can reduce barriers across groups. If you’re not currently licensed to use Microsoft Teams, see here for details about free access.If you prefer tools like Cisco Webex, Slack, Workplace from Facebook, or Zoom, Azure AD integration provides federated single-sign-on (SSO) and automated user provisioning, allowing you to deploy to all your users quickly and give them frictionless access. Go here to learn about integrating apps with Azure AD.|
+|2.| Enable your users to securely access cloud apps from outside your corporate network To protect your organization, it’s essential that when you enable access to cloud apps from personal devices and remote locations, it is done securely. If you’re already using Azure AD Conditional Access, you know it can be used to apply security policies to help ensure the right people have access to the apps they need, in line with your organizational requirements. You can extend your policies to protect all your apps, requiring controls like passing an MFA challenge or using a compliant device. For more information about Conditional Access, go here. If you’re not using Conditional Access, Security Defaults can help keep your users and apps secured (learn more here). If you already have Conditional Access rolled out in your organization, we recommend you examine your policies and ensure they’re not preventing remote access. Policies that block access when off the corporate network are common, and would cause problems. You may find that an alternative combination of Conditional Access controls will enable remote work, while still meeting your security requirements.|
+|3.| Provide secure access to your on-premises apps from outside your corporate network Most organizations are running lots of business-critical apps on-premises, many of which may not be accessible from outside the corporate network. Azure AD Application Proxy is a lightweight agent that enables internet access to your on-premises apps, without opening up broad access to your network. You can combine this with your existing Azure AD authentication and Conditional Access policies to help keep your users and data secured. For more information about App Proxy, go here.  Alternatively, if you’re using Akamai Enterprise Application Access (EAA), Citrix Application Delivery Controller (ADC), F5 BIG-IP Access Policy Manager (APM) or Zscaler Private Access, Microsoft has partnerships to help you provide remote access securely. For more information about Secure Hybrid Access, .|
+|4. |Collaborate with partners With many companies canceling non-essential business travel, working closely with business partners can become more difficult. Azure AD’s B2B collaboration capabilities can help you use your chosen collaboration app—including SharePoint, Teams, Box, Dropbox, and Google Drive—securely across company boundaries. For more information, go here.|
+|5. |Support bring-your-own-device Not every organization can provide corporate devices for remote work, but you can enable access to company data on personally owned devices using Microsoft Intune app protection policies combined with Azure AD Conditional Access. |
+
+ 
+The power of the cloud enables new ways to work, giving us flexibility in challenging times. We hope Azure AD can help keep your users productive — and your business moving. Stay safe and be well.
 
 
 Attribute based credentials(ABC) is een systeem dat het mogelijk maakt om alleen die gegevens te delen die noodzakelijk zijn voor de te verlenen dienst
