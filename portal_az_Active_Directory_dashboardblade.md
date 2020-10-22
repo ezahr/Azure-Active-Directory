@@ -1,3 +1,20 @@
+
+
+
+![tt](.//pictures/ezahr_your_repositories.png)
+
+![tt](.//pictures/azure_active_directory_00.png)
+
+![tt](.//pictures/azure_active_directory_01.png)
+
+![tt](.//pictures/azure_active_directory_02.png)
+
+![tt](.//pictures/azure_active_directory_03.png)
+
+![tt](.//pictures/azure_active_directory_04.png)
+
+
+
 ## portal.azure.com/#blade/Microsoft_AAD_IAM
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)
@@ -5,237 +22,237 @@
 
 
 [getting started](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/QuickStart)
-![getting started](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_QuickStart.png)
+![getting started](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_QuickStart.png)
 
 [PreviewHub](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PreviewHub)
-![PreviewHub](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PreviewHub.png)
+![PreviewHub](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PreviewHub.png)
 
 [diagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose)
-![diagnose](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_diagnose.png)
+![diagnose](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_diagnose.png)
 
 # manage
 
 ## users
 [allusers preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphUsers)
-![allusers preview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphUsers.png)
+![allusers preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphUsers.png)
 
 [deleted users preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphDeletedUsers)
-![deleted users preview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphDeletedUsers.png)
+![deleted users preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_MsGraphDeletedUsers.png)
 
 
 [password reset](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/PasswordReset)
-![password reset](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_PasswordReset.png)
+![password reset](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_PasswordReset.png)
 
 [user settings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)
-![user settings](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserSettings.png)
+![user settings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserSettings.png)
 
 
 [diagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/diagnose)
-![diagnose](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_diagnose.png)
+![diagnose](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_diagnose.png)
 
 
 [signins](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/SignIns)
-![signins](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_SignIns.png)
+![signins](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_SignIns.png)
 
 [audit log](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/Audit)
-![audit log](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_Audit.png)
+![audit log](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_Audit.png)
 
 
 [bulkoperations results](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserBackgroundTasks)
-![bulkoperations results](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserBackgroundTasks.png)
+![bulkoperations results](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_UserBackgroundTasks.png)
 
 
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/supportRequest)
-![new support request](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_supportRequest.png)
+![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_UsersManagementMenuBlade_supportRequest.png)
 
 
 
 ## groups
 
 [all groups](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups)
-![all groups](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AllGroups.png)
+![all groups](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AllGroups.png)
 
 
 [deleted groups](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/DeletedGroups)
-![deleted groups](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_DeletedGroups.png)
+![deleted groups](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_DeletedGroups.png)
 
 
 
 [diagnose and solve problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/diagnose)
-![diagnose and solve problems](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_diagnose.png)
+![diagnose and solve problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_diagnose.png)
 
 
 #### settings
 
 [settings general](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/General)
-![settings general](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_General.png)
+![settings general](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_General.png)
 
 [settings expiration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/Lifecycle)
-![settings expiration](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Lifecycle.png)
+![settings expiration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Lifecycle.png)
 
 
 [settings naming policy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/NamingPolicy)
-![settings naming policy](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_NamingPolicy.png)
+![settings naming policy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_NamingPolicy.png)
 
 
 
 #### Activity
 
 [privilegde access ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/EnablePrivilegedAccessGroups)
-![privilegde access ](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_EnablePrivilegedAccessGroups.png)
+![privilegde access ](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_EnablePrivilegedAccessGroups.png)
 
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AccessReviews)
-![access reviews](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AccessReviews.png)    
+![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_AccessReviews.png)    
 
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/Audit)
-![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Audit.png)
+![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_Audit.png)
 
 
 [bulk operation results](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/GroupBackgroundTasks)
-![bulk operation results](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_GroupBackgroundTasks.png)
+![bulk operation results](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_GroupBackgroundTasks.png)
 
 
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/supportRequest)
-![new support request](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_supportRequest.png)
+![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_GroupsManagementMenuBlade_supportRequest.png)
 
 ## External identities
 
 [getting started](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/ExternalIdentitiesGettingStarted)
-![getting started](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_ExternalIdentitiesGettingStarted.png)
+![getting started](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_ExternalIdentitiesGettingStarted.png)
 
 [All identity providers](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/IdentityProviders)
-![All identity providers](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_IdentityProviders.png)
+![All identity providers](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_IdentityProviders.png)
 
 
 [external collaboration setting](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/Settings)
-![external collaboration setting](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_Settings.png)
+![external collaboration setting](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_Settings.png)
 
 [diagnose and problem solving](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/diagnose)
-![diagnose and problem solving](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_diagnose.png)
+![diagnose and problem solving](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_diagnose.png)
 
 ### Self-service sign up
 
 [custom user attributes](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/UserAttributes)
-![custom user attributes](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserAttributes.png)
+![custom user attributes](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserAttributes.png)
 
 [All API connectors](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/RestApiCalls)
-![All API connectors](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_RestApiCalls.png)
+![All API connectors](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_RestApiCalls.png)
 
 [usr flows preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/UserFlows)
-![usr flows preview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserFlows.png)
+![usr flows preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserFlows.png)
 
 ### subscriptions
 [linked subscriptions](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/B2BLinkedSubscriptions)
-![linked subscriptions](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_B2BLinkedSubscriptions.png)
+![linked subscriptions](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_B2BLinkedSubscriptions.png)
 
 ### lifecycle management
 [terms of use](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/TermsOfUse)
-![terms of use](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_TermsOfUse.png)
+![terms of use](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_TermsOfUse.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/AccessReviews)
-![access reviews](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_AccessReviews.png)
+![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_AccessReviews.png)
 
 
 ### troubleshooting  + Support
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/supportRequest)
-![new support request](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_supportRequest.png)
+![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_supportRequest.png)
 
 
 ## Roles and Administrators
 
 [RolesAndAdministrator](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators)
-![RolesAndAdministrator](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RolesAndAdministrators.png)
+![RolesAndAdministrator](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RolesAndAdministrators.png)
 
 ## adminstrative units
 [AdminUnit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AdminUnit)
-![AdminUnit](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AdminUnit.png)
+![AdminUnit](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AdminUnit.png)
 
 
 ## Enterprice applications
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Overview/menuId/)
-![overview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Overview_menuId.png)
+![overview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Overview_menuId.png)
 
 [diagnose and solving problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/diagnose/menuId/)
-![diagnose and solving problems](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_diagnose_menuId.png)
+![diagnose and solving problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_diagnose_menuId.png)
 
 ### manage
 [all applications](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AllApps/menuId/)
-![all applications](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AllApps_menuId.png)
+![all applications](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AllApps_menuId.png)
 
 [applications proxy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AppProxy/menuId/)
-![applications proxy](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AppProxy_menuId.png)
+![applications proxy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AppProxy_menuId.png)
 
 [usersettings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/UserSettings/menuId/)
-![usersettings](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_UserSettings_menuId.png)
+![usersettings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_UserSettings_menuId.png)
 
 
 [collections](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Collections/menuId/)
-![collections](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Collections_menuId.png)
+![collections](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Collections_menuId.png)
 
 
 ### security
 [conditional access](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/Policies)
-![conditional access](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Policies.png)
+![conditional access](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Policies.png)
 
 
 [insights and reporting](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/InsightsAndReporting)
-![insights and reporting](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_InsightsAndReporting.png)
+![insights and reporting](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_InsightsAndReporting.png)
 
 
 [diagnose and solving problemens](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/diagnose)
-![diagnose and solving problemens](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_diagnose.png)
+![diagnose and solving problemens](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_diagnose.png)
 
 
 [named locations](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/NamedNetworksV2)
-![named locations](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_NamedNetworksV2.png)
+![named locations](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_NamedNetworksV2.png)
 
 [custom control preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/CustomControls)
-![custom control preview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_CustomControls.png)
+![custom control preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_CustomControls.png)
 
 [terms of use](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/TermsOfUse)
-![terms of use](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_TermsOfUse.png)
+![terms of use](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_TermsOfUse.png)
 
 [VPN connetivity](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/Vpn)
-![VPN connetivity](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Vpn.png)
+![VPN connetivity](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Vpn.png)
 
 [classic policies](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/ClassicPolicies)
-![classic policies](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_ClassicPolicies.png)
+![classic policies](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_ClassicPolicies.png)
 
 
 ### troubleshooting + support
 
 [support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/supportRequest)
-![support request](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_supportRequest.png)
+![support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_supportRequest.png)
 
 ### activity
 [signins ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/SignIns/menuId/)
 [Usage & insights (Preview)(https://portal.azure.com/#blade/Microsoft_AAD_IAM/EnterpriseApplicationsInsightsMenuBlade/ApplicationActivity)
 
-![signins ](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_SignIns_menuId.png)
+![signins ](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_SignIns_menuId.png)
 ![Usage & insights (Preview.png)
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Audit/menuId/)
-![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Audit_menuId.png)
+![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Audit_menuId.png)
 
 
 [provisioningslogs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/ProvisioningEvents/menuId/)
-![provisioningslogs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_ProvisioningEvents_menuId.png)
+![provisioningslogs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_ProvisioningEvents_menuId.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AccessReviews/menuId/)
-![access reviews](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessReviews_menuId.png)
+![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessReviews_menuId.png)
 
 [admin consents requests](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AccessRequests/menuId/)
-![admin consents requests](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessRequests_menuId.png)
+![admin consents requests](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessRequests_menuId.png)
 
 ### troubleshoot + support
 [virtual assistant](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/VirtualAssistant/menuId/)
-![virtual assistant](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_VirtualAssistant_menuId.png)
+![virtual assistant](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_VirtualAssistant_menuId.png)
 
 [new support reuest](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/supportRequest/menuId/)
-![new support reuest](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_supportRequest_menuId.png)
+![new support reuest](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_supportRequest_menuId.png)
 
 ## Devices
 [all devices](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/Devices/menuId/)
@@ -273,7 +290,7 @@
 ## App registriations
 
 [app registration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps)
-![app registration](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RegisteredApps.png)
+![app registration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RegisteredApps.png)
 
 
 ## identity governance
@@ -366,74 +383,74 @@
 
 
 [applcation proxy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AppProxy)
-![applcation proxy](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AppProxy.png)
+![applcation proxy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AppProxy.png)
 
 ## Licences
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![overview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![overview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 [diagnose and solve problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![diagnose and solve problems](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![diagnose and solve problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 ### manage
 
 [licenced features](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![licenced features](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![licenced features](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 [all products](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![all products](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![all products](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 
 [Self service signup products](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![Self service signup products](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![Self service signup products](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 ### Activity
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 ### Troubleshooting + support 
 [new support requests](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![new support requests](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![new support requests](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 
 ## Azure AD Connect
 
 [Azure AD connect](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AzureADConnect)
-![Azure AD connect](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AzureADConnect.png)
+![Azure AD connect](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AzureADConnect.png)
 
 ## custom domain names
 
 [custom domain names](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)
-![custom domain names](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Domains.png)
+![custom domain names](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Domains.png)
 
 
 ## mobility MDM MAM
 
 [Mobility (MDM and MAM)](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Mobility)
-![Mobility (MDM and MAM.png)](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Mobility.png)
+![Mobility (MDM and MAM.png)](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Mobility.png)
 
 ## Password reset 
 
 ### manage
 
 [properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![properties](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![properties](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [authentification method](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![authentification method](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![authentification method](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [registration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![registration](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![registration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [notification](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![notification](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![notification](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [customisation](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![customisation](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![customisation](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [onpremise integration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![onpremise integration](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![onpremise integration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 
 ### activity
@@ -450,17 +467,17 @@
 ## company branding
 
 [company branding](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding)
-![company branding](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_LoginTenantBranding.png)
+![company branding](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_LoginTenantBranding.png)
 
 ## user settings
 
 [usersettings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/UserSettings)
-![usersettings](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_UserSettings.png)
+![usersettings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_UserSettings.png)
 
 ## Properities
 
 [properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
-![properties](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Properties.png)
+![properties](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Properties.png)
 
 ## security
 
@@ -469,66 +486,66 @@
 
 
 [SignIns](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/SignIns)
-![SignIns](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_SignIns.png)
+![SignIns](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_SignIns.png)
 
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Audit)
-![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Audit.png)
+![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Audit.png)
 
 [provisioning](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/ProvisioningEvents)
-![provisioning](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_ProvisioningEvents.png)
+![provisioning](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_ProvisioningEvents.png)
 
 [logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Logs)
-![logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Logs.png)
+![logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Logs.png)
 
 [diagnostic settings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/DiagnosticSettings)
-![diagnostic settings](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_DiagnosticSettings.png)
+![diagnostic settings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_DiagnosticSettings.png)
 
 [workbooks](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Workbooks)
-![workbooks](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Workbooks.png)
+![workbooks](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Workbooks.png)
 
 [Azure AD application activity](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Insights)
-![Azure AD application activity](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
+![Azure AD application activity](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
 
 [AD FS application activity](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Insights)
-![AD FS application activity](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
+![AD FS application activity](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
 
 
 
 ## audit logs
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Audit)
-![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Audit.png)
+![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Audit.png)
 
 
 ## Provisioning logs
 
 [provisionin logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/ProvisioningEvents)
-![provisionin logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_ProvisioningEvents.png)
+![provisionin logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_ProvisioningEvents.png)
 
 
 ## logs
 
 [logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Logs)
-![logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Logs.png)
+![logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Logs.png)
 
 
 ## diagnose settings
 
 [diagnose settings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/DiagnosticSettings)
-![diagnose settings](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_DiagnosticSettings.png)
+![diagnose settings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_DiagnosticSettings.png)
 
 
 ## workbooks
 
 [workbooks](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Workbooks)
-![workbooks](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Workbooks.png)
+![workbooks](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Workbooks.png)
 
 
 ## Usage and Insights
 
 [usage and insights](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Insights)
-![usage and insights](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
+![usage and insights](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Insights.png)
 
 # Troubleshoot and reports
 
@@ -536,5 +553,5 @@
 ## Virtual assitant previes
 
 [VirtualAssistant](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/VirtualAssistant)
-![VirtualAssistant](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_VirtualAssistant.png)
+![VirtualAssistant](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_VirtualAssistant.png)
 
