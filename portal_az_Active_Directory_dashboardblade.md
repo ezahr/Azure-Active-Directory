@@ -233,30 +233,29 @@
 
 ### activity
 [signins ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/SignIns/menuId/)
-[Usage & insights (Preview)(https://portal.azure.com/#blade/Microsoft_AAD_IAM/EnterpriseApplicationsInsightsMenuBlade/ApplicationActivity)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_SignIns_menuId.png)
 
-![signins ](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_SignIns_menuId.png)
-![Usage & insights (Preview.png)
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Audit/menuId/)
-![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Audit_menuId.png)
+![audit logs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Audit_menuId.png)
 
 
 [provisioningslogs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/ProvisioningEvents/menuId/)
-![provisioningslogs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_ProvisioningEvents_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_ProvisioningEvents_menuId.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AccessReviews/menuId/)
-![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessReviews_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessReviews_menuId.png)
 
 [admin consents requests](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AccessRequests/menuId/)
-![admin consents requests](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessRequests_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AccessRequests_menuId.png)
 
 ### troubleshoot + support
 [virtual assistant](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/VirtualAssistant/menuId/)
-![virtual assistant](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_VirtualAssistant_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_VirtualAssistant_menuId.png)
 
 [new support reuest](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/supportRequest/menuId/)
-![new support reuest](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_supportRequest_menuId.png)
+![new support reuest](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_supportRequest_menuId.png)
+
 
 ## Devices
 [all devices](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/Devices/menuId/)
