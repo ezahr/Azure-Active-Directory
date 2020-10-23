@@ -138,29 +138,30 @@
 ### Self-service sign up
 
 [custom user attributes](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/UserAttributes)
-![custom user attributes](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserAttributes.png)
+!tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserAttributes.png
+
 
 [All API connectors](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/RestApiCalls)
-![All API connectors](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_RestApiCalls.png)
+!tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_RestApiCalls.png)
 
-[usr flows preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/UserFlows)
-![usr flows preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserFlows.png)
+[user flows preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/UserFlows)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_UserFlows.png)
 
 ### subscriptions
 [linked subscriptions](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/B2BLinkedSubscriptions)
-![linked subscriptions](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_B2BLinkedSubscriptions.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_B2BLinkedSubscriptions.png)
 
 ### lifecycle management
 [terms of use](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/TermsOfUse)
-![terms of use](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_TermsOfUse.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_TermsOfUse.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/AccessReviews)
-![access reviews](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_AccessReviews.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_AccessReviews.png)
 
 
 ### troubleshooting  + Support
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/supportRequest)
-![new support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_supportRequest.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_CompanyRelationshipsMenuBlade_supportRequest.png)
 
 
 ## Roles and Administrators
