@@ -259,35 +259,35 @@
 
 ## Devices
 [all devices](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/Devices/menuId/)
-![all devices](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_Devices_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Devices_DevicesMenuBlade_Devices_menuId.png)
 
 [device settings](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/DeviceSettings/menuId/)
-![device settings](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_DeviceSettings_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Devices_DevicesMenuBlade_DeviceSettings_menuId.png)
 
 [enterprise state roaming](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/RoamingSettings/menuId/)
-![enterprise state roaming](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_RoamingSettings_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Devices_DevicesMenuBlade_RoamingSettings_menuId.png)
 
 
 [bitlocker keys](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/recoveryKeys/menuId/)
-![bitlocker keys](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_recoveryKeys_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Devices_DevicesMenuBlade_recoveryKeys_menuId.png)
 
 
 [diagnose and problem solving](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/SupportTroubleshootmenuId  )
-![diagnose and problem solving](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_SupportTroubleshoot_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_DeviceMenuBlade_SupportTroubleshoot_menuId.png)
 
 
 ### activity
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/Audit/menuId/)
-![audit logs](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_Audit_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Device_DevicesMenuBlade_Audit_menuId.png)
 
 
 [bulk operations results](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/DevicesBackgroundTasks/menuId/)
-![bulk operations results](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_DevicesBackgroundTasks_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Device_DevicesMenuBlade_DevicesBackgroundTasks_menuId.png)
 
 
 ###  Troubelshoot + Support 
 [new support request](https://portal.azure.com/#blade/Microsoft_AAD_Devices/DevicesMenuBlade/supportRequest/menuId/)
-![new support request](https:__portal.azure.com_#blade_Microsoft_AAD_Devices_DevicesMenuBlade_supportRequest_menuId.png)
+![tt](https-portal-azure-com-blade-Microsoft_AAD_Device_DevicesMenuBlade_supportRequest_menuId.png)
 
 
 ## App registriations
