@@ -362,7 +362,7 @@
 
 #### tasks
 [my roles](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/ActivationMenuBlade/aadmigratedroles)
-![my roles](https-portal-azure-com-blade-Microsoft_AAD_PIMCommon_ActivationMenuBlade_aadmigratedroles.png)
+![tt](//pictures/https-portal-azure-com-blade-Microsoft_AAD_PIMCommon_ActivationMenuBlade_aadmigratedroles.png)
 
 []()
 []()
@@ -386,74 +386,74 @@
 
 
 [applcation proxy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AppProxy)
-![applcation proxy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AppProxy.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AppProxy.png)
 
 ## Licences
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![overview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 [diagnose and solve problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![diagnose and solve problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses2.png)
 
 ### manage
 
 [licenced features](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![licenced features](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 [all products](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![all products](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 
 [Self service signup products](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![Self service signup products](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 ### Activity
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![audit logs](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 ### Troubleshooting + support 
 [new support requests](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Licenses)
-![new support requests](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Licenses.png)
 
 
 ## Azure AD Connect
 
 [Azure AD connect](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AzureADConnect)
-![Azure AD connect](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AzureADConnect.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AzureADConnect.png)
 
 ## custom domain names
 
 [custom domain names](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)
-![custom domain names](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Domains.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Domains.png)
 
 
 ## mobility MDM MAM
 
 [Mobility (MDM and MAM)](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Mobility)
-![Mobility (MDM and MAM.png)](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Mobility.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Mobility.png)
 
 ## Password reset 
 
 ### manage
 
 [properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![properties](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/  )
 
 [authentification method](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![authentification method](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [registration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![registration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [notification](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![notification](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [customisation](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![customisation](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 [onpremise integration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/PasswordReset)
-![onpremise integration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_PasswordReset.png)
 
 
 ### activity
@@ -470,17 +470,17 @@
 ## company branding
 
 [company branding](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding)
-![company branding](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_LoginTenantBranding.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_LoginTenantBranding.png)
 
 ## user settings
 
 [usersettings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/UserSettings)
-![usersettings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_UserSettings.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_UserSettings.png)
 
 ## Properities
 
 [properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
-![properties](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Properties.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Properties.png)
 
 ## security
 
@@ -489,7 +489,7 @@
 
 
 [SignIns](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/SignIns)
-![SignIns](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_SignIns.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_SignIns.png)
 
 
 [audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Audit)
