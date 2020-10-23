@@ -167,69 +167,69 @@
 ## Roles and Administrators
 
 [RolesAndAdministrator](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators)
-![RolesAndAdministrator](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RolesAndAdministrators.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RolesAndAdministrators.png)
 
 ## adminstrative units
 [AdminUnit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/AdminUnit)
-![AdminUnit](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AdminUnit.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_AdminUnit.png)
 
 
 ## Enterprice applications
 
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Overview/menuId/)
-![overview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Overview_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Overview_menuId.png)
 
 [diagnose and solving problems](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/diagnose/menuId/)
-![diagnose and solving problems](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_diagnose_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_diagnose_menuId.png)
 
 ### manage
 [all applications](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AllApps/menuId/)
-![all applications](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AllApps_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AllApps_menuId.png)
 
 [applications proxy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AppProxy/menuId/)
-![applications proxy](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AppProxy_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_AppProxy_menuId.png)
 
 [usersettings](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/UserSettings/menuId/)
-![usersettings](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_UserSettings_menuId.png)
-
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_UserSettings_menuId.png)
 
 [collections](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/Collections/menuId/)
-![collections](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Collections_menuId.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_StartboardApplicationsMenuBlade_Collections_menuId.png)
 
 
 ### security
 [conditional access](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/Policies)
-![conditional access](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Policies.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Policies.png)
 
 
 [insights and reporting](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/InsightsAndReporting)
-![insights and reporting](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_InsightsAndReporting.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_InsightsAndReporting.png)
 
 
 [diagnose and solving problemens](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/diagnose)
-![diagnose and solving problemens](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_diagnose.png)
+![tt](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_diagnose.png)
 
 
 [named locations](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/NamedNetworksV2)
-![named locations](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_NamedNetworksV2.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_NamedNetworksV2.png)
 
 [custom control preview](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/CustomControls)
-![custom control preview](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_CustomControls.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_CustomControls.png)
 
 [terms of use](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/TermsOfUse)
-![terms of use](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_TermsOfUse.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_TermsOfUse.png)
 
 [VPN connetivity](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/Vpn)
-![VPN connetivity](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Vpn.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_Vpn.png)
 
 [classic policies](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/ClassicPolicies)
-![classic policies](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_ClassicPolicies.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_ClassicPolicies.png)
 
 
 ### troubleshooting + support
 
 [support request](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ConditionalAccessBlade/supportRequest)
-![support request](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_supportRequest.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ConditionalAccessBlade_supportRequest.png)
+
 
 ### activity
 [signins ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/SignIns/menuId/)
