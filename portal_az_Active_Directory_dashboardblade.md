@@ -294,51 +294,51 @@
 ## App registriations
 
 [app registration](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps)
-![app registration](.//pictures/pendinghttps-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RegisteredApps.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_RegisteredApps.png)
 
 
 ## identity governance
 
 [identity governance](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/GettingStarted)
-![identity governance](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_GettingStarted.png)
+![tt](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_GettingStarted.png)
 
 
 ### entitlement management
 
 [getting started](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/GettingStarted)
-![getting started](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_GettingStarted.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_ERMtoryMenuBlade_GettingStarted.png)
 
 [access packages](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/elmEntitlement)
-![access packages](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_elmEntitlement.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_elmEntitlement.png)
 
 
 
 [catalogs](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/elmCatalog)
-![catalogs](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_elmCatalog.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBladeelmCatalog.png)
 
 [connected organizations](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/elmOrganizations)
-![connected organizations](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_elmOrganizations.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_elmOrganizations.png)
 
 
 #### reports
 [ Access packages for a user](https://portal.azure.com/#blade/Microsoft_Azure_ELMAdmin/ReportMenuBlade/userAccessPackages)
-![ Access packages for a user](https:__portal.azure.com_#blade_Microsoft_Azure_ELMAdmin_ReportMenuBlade_userAccessPackages.png)
+![ Access packages for a user](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAccessPackages.png)
 
 [resource assignments for a user](https://portal.azure.com/#blade/Microsoft_Azure_ELMAdmin/ReportMenuBlade/userAssignments)
-![resource assignments for a user](https:__portal.azure.com_#blade_Microsoft_Azure_ELMAdmin_ReportMenuBlade_userAssignments.png)
+![resource assignments for a user](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAssignments.png)
 
 [settings](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/elmSetting)
-![settings](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_elmSetting.png)
+![settings](h.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_elmSetting.png)
 
 ### access reviews
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Overview)
-![overview](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_Overview.png)
+![overview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Overview.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Controls)
-![access reviews](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_Controls.png)
+![access reviews](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Controls.png)
 
 [programs](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Programs)
-![programs](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_Programs.png)
+![programs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Programs.png)
 
 
 
