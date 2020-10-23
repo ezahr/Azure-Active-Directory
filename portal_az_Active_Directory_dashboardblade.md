@@ -322,48 +322,47 @@
 
 #### reports
 [ Access packages for a user](https://portal.azure.com/#blade/Microsoft_Azure_ELMAdmin/ReportMenuBlade/userAccessPackages)
-![ Access packages for a user](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAccessPackages.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAccessPackages.png)
 
 [resource assignments for a user](https://portal.azure.com/#blade/Microsoft_Azure_ELMAdmin/ReportMenuBlade/userAssignments)
-![resource assignments for a user](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAssignments.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_userAssignments.png)
 
 [settings](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/elmSetting)
-![settings](h.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_elmSetting.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_elmSetting.png)
 
 ### access reviews
 [overview](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Overview)
-![overview](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Overview.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Overview.png)
 
 [access reviews](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Controls)
-![access reviews](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Controls.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Controls.png)
 
 [programs](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/Programs)
-![programs](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Programs.png)
-
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_IAM_ActiveDirectoryMenuBlade_Programs.png)
 
 
 ### Privileged identify management
 [azure ad roles](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart/defaultMenuId/quickStart)
-![azure ad roles](https:__portal.azure.com_#blade_Microsoft_Azure_PIMCommon_CommonMenuBlade_quickStart_defaultMenuId_quickStart.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_PIMCommon_CommonMenuBlade_quickStart_defaultMenuId_quickStart.png)
 
 [privleged access groups preview](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/aadgroup/defaultMenuId/quickStart)
-![privleged access groups preview](https:__portal.azure.com_#blade_Microsoft_Azure_PIMCommon_CommonMenuBlade_aadgroup_defaultMenuId_quickStart.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AA_IMCommon_CommonMenuBlade_aadgroup_defaultMenuId_quickStart.png)
 
 #### terms of use
 [terms of use](https://portal.azure.com/#blade/Microsoft_AAD_ERM/DashboardBlade/termsOfUse)
-![terms of use](https:__portal.azure.com_#blade_Microsoft_AAD_ERM_DashboardBlade_termsOfUse.png)
+![tt](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_ERM_DashboardBlade_termsOfUse.png)
 
 
 #### azure resources
 [quickstart ](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/azurerbac/defaultMenuId/quickStart)
-![quickstart ](https:__portal.azure.com_#blade_Microsoft_Azure_PIMCommon_CommonMenuBlade_azurerbac_defaultMenuId_quickStart.png)
 
+![tt ](.//pictures/https-portal-azure-com-blade-Microsoft_AAD_PIMCommon_CommonMenuBlade_azurerbac_defaultMenuId_quickStart.png)
 
 #### activity 
 
 #### tasks
 [my roles](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/ActivationMenuBlade/aadmigratedroles)
-![my roles](https:__portal.azure.com_#blade_Microsoft_Azure_PIMCommon_ActivationMenuBlade_aadmigratedroles.png)
+![my roles](https-portal-azure-com-blade-Microsoft_AAD_PIMCommon_ActivationMenuBlade_aadmigratedroles.png)
 
 []()
 []()
