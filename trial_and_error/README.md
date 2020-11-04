@@ -1,4 +1,9 @@
 
+![tt](./../pictures/trial_and_error_20201104_71.png)
+![tt](./../pictures/trial_and_error_20201104_72.png)
+![tt](./../pictures/trial_and_error_20201104_73.png)
+![tt](./../pictures/trial_and_error_20201104_74.png)
+
 ![tt](./../pictures/trial_and_error_20201104_00.png)
 ![tt](./../pictures/trial_and_error_20201104_01.png)
 ![tt](./../pictures/trial_and_error_20201104_02.png)
