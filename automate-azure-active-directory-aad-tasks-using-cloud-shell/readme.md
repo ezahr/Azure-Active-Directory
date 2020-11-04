@@ -328,6 +328,12 @@ psmith@boschpeteroutlook.onmicrosoft.com",
 ![tt](./../pictures/az_login_10.png)
 
 
+![tt](./../pictures/az_login_11.png)
+
+
+![tt](./../pictures/az_login_12.png)
+
+
 ## Create an Azure Active Directory User using variables
 
 
