@@ -24,8 +24,8 @@ Remove the Azure Active Directory User/Group Administrator in Azure SQL
 
 ## az login 
 
-![tt](./../pictures/az_login_00.png)
 ![tt](./../pictures/az_login_01.png)
+![tt](./../pictures/az_login_00.png)
 ![tt](./../pictures/az_login_02.png)
 ![tt](./../pictures/az_login_03.png)
 ![tt](./../pictures/az_login_04.png)
