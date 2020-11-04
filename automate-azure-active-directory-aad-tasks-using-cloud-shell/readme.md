@@ -312,7 +312,20 @@ boscp08@kubernetes-worker2:~$ az ad user create --display-name psmith --password
 }
 boscp08@kubernetes-worker2:~$ az ad user create --display-name psmith --password Mypaermy2aa3434$$ --user-principal-name "psmith@boschpeteroutlook.onmicrosoft.com"
 ````
+## az ad user create --display-name psmith --password Mypaermy2aa3434$$ --user-principal-name "psmith@ugchelen.onmicrosoft.com"
+Create an Azure Active Directory User
 
+boscp08@kubernetes-worker2:~$ az ad user create --display-name psmith --password Mypaermy2aa3434$$ --user-principal-name "psmith@ugchelen.onmicrosoft.com"
+The domain portion of the userPrincipalName property is invalid. You must use one of the verified domain names in your organization.
+
+psmith@boschpeteroutlook.onmicrosoft.com",
+
+
+![tt](./../pictures/az_login_08.png)
+
+![tt](./../pictures/az_login_09.png)
+
+![tt](./../pictures/az_login_10.png)
 
 
 ## Create an Azure Active Directory User using variables
