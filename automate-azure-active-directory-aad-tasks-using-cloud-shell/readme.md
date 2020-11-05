@@ -24,6 +24,8 @@ Remove the Azure Active Directory User/Group Administrator in Azure SQL
 
 ## az login 
 
+## az login --username bosch.peter@outlook.com -t 69aaa45e-5377-432d-9882-57d002892515 --allow-no-subscriptions
+
 ![tt](./../pictures/az_login_01.png)
 ![tt](./../pictures/az_login_00.png)
 ![tt](./../pictures/az_login_02.png)
