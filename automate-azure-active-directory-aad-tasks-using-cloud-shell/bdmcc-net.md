@@ -1,4 +1,5 @@
 
+.
 
 ## az login --username bosch.peter@outlook.com -t 69aaa45e-5377-432d-9882-57d002892515 --allow-no-subscriptions
 
@@ -6,7 +7,7 @@
 
 ````
 boscp08@kubernetes-worker2:~$ az --username p.bosch@bdmcc.net
-Password: 
+Password: Q..V...._2...
 [
   {
     "cloudName": "AzureCloud",
