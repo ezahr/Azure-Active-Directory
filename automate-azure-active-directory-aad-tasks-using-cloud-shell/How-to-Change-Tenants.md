@@ -1,3 +1,5 @@
+# scott@ugchelen.onmicrosoft.com
+
 
 ## az login --username  bosch.peter@outlook.com -t 69aaa45e-5377-432d-9882-57d002892515 --allow-no-subscriptions
 
@@ -215,3 +217,62 @@ boscp08@kubernetes-worker2:~$ az ad user list
 boscp08@kubernetes-worker2:~$ az ad user create --display-name scott --password Mypaermy2aa3434$$ --user-principal-name "scott@boschpeteroutlook.onmicrosoft.com"
 The domain portion of the userPrincipalName property is invalid. You must use one of the verified domain names in your organization.
 ````
+## az ad user create --display-name scott --password Mypaermy2aa3434$$ --user-principal-name "scott@ugchelen.onmicrosoft.com"
+boscp08@kubernetes-worker2:~$ az ad user create --display-name scott --password Mypaermy2aa3434$$ --user-principal-name "scott@ugchelen.onmicrosoft.com"
+{
+  "accountEnabled": true,
+  "ageGroup": null,
+  "assignedLicenses": [],
+  "assignedPlans": [],
+  "city": null,
+  "companyName": null,
+  "consentProvidedForMinor": null,
+  "country": null,
+  "createdDateTime": null,
+  "creationType": null,
+  "deletionTimestamp": null,
+  "department": null,
+  "dirSyncEnabled": null,
+  "displayName": "scott",
+  "employeeId": null,
+  "facsimileTelephoneNumber": null,
+  "givenName": null,
+  "immutableId": null,
+  "isCompromised": null,
+  "jobTitle": null,
+  "lastDirSyncTime": null,
+  "legalAgeGroupClassification": null,
+  "mail": null,
+  "mailNickname": "scott",
+  "mobile": null,
+  "objectId": "d9578cb3-070d-443a-9c30-ad556edc5c73",
+  "objectType": "User",
+  "odata.metadata": "https://graph.windows.net/69aaa45e-5377-432d-9882-57d002892515/$metadata#directoryObjects/@Element",
+  "odata.type": "Microsoft.DirectoryServices.User",
+  "onPremisesDistinguishedName": null,
+  "onPremisesSecurityIdentifier": null,
+  "otherMails": [],
+  "passwordPolicies": null,
+  "passwordProfile": null,
+  "physicalDeliveryOfficeName": null,
+  "postalCode": null,
+  "preferredLanguage": null,
+  "provisionedPlans": [],
+  "provisioningErrors": [],
+  "proxyAddresses": [],
+  "refreshTokensValidFromDateTime": "2020-11-05T09:41:10.7062418Z",
+  "showInAddressList": null,
+  "signInNames": [],
+  "sipProxyAddress": null,
+  "state": null,
+  "streetAddress": null,
+  "surname": null,
+  "telephoneNumber": null,
+  "thumbnailPhoto@odata.mediaEditLink": "directoryObjects/d9578cb3-070d-443a-9c30-ad556edc5c73/Microsoft.DirectoryServices.User/thumbnailPhoto",
+  "usageLocation": null,
+  "userIdentities": [],
+  "userPrincipalName": "scott@ugchelen.onmicrosoft.com",
+  "userState": null,
+  "userStateChangedOn": null,
+  "userType": "Member"
+}
