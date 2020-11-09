@@ -1,5 +1,7 @@
 
 
+![automate-azure-active-directory-aad-tasks-using-cloud-shell/](https://www.sqlshack.com/automate-azure-active-directory-aad-tasks-using-cloud-shell/)
+
 ## displayname=pjackson
 
 The variable displayname is storing the value “pjackson”. You can verify the value of the variable using the echo command like this:
