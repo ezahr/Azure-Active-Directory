@@ -48,6 +48,8 @@ az ad user create –display-name $line –password $password –user-principal-
 done 
 `````
 
+|user|@bdmcc.net|
+|---------------------|-----------------------------|
 |Alex Smits | alex.smits@bdmcc.net|
 |Alexandra Brouwershaven | as.van.brouwershaven@bdmcc.net|
 |Alfred Pruim | a.pruim@bdmcc.net|
