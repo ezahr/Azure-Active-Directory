@@ -1,5 +1,9 @@
 # Azure-Active-Directory
 
+## Inschrijving voor Azure AD-integratie
+Door integratie met Microsoft Azure Active Directory worden Windows-apparaten automatisch aangemeld bij Workspace ONE UEM met minimale interactie met de eindgebruiker. Inschrijving voor Azure AD-integratie vereenvoudigt de inschrijving voor zowel eindgebruikers als beheerders. Inschrijving voor Azure AD-integratie ondersteunt drie verschillende inschrijvingsstromen: deelnemen aan Azure AD, Out of Box Experience-inschrijving en Office 365-inschrijving. Voor alle methoden is configuratie van Azure AD-integratie met Workspace ONE UEM vereist.[Voordat u uw apparaten kunt inschrijven met behulp van Azure AD-integratie, moet u Workspace ONE UEM en Azure AD configureren](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/Windows_Desktop_Device_Management/GUID-AWT-ENROLL-OVERVIEWWD.html)
+
+
 [Uw universele platform om identiteiten te beheren en te beveiligen](https://azure.microsoft.com/nl-nl/services/active-directory/)
 
 De Azure Active Directory-bedrijfsidentiteitsservice (Azure AD) biedt eenmalige aanmelding en meervoudige verificatie om uw gebruikers te beschermen tegen 99,9 procent van de cyberbeveiligingsaanvallen.  U wordt geverifieerd op basis van uw Azure AD-tenant. De web-app vraagt ook om enkele toestemmingen, en u wordt om uw toestemming gevraagd.  Selecteer Accepteren. De webapp verschijnt dan. De titelbalk bevat uw geverifieerde gebruikersnaam, wat aangeeft dat u met succes bent aangemeld met de identiteit in de Learn Module AAD Tenant-directory.
