@@ -1,7 +1,7 @@
 # Azure-Active-Directory
 
 
-![airwatch](..//pictures/47474A80-D815-49B5-A7F1-F2C2B7B31133.png)
+![airwatch](.//pictures/47474A80-D815-49B5-A7F1-F2C2B7B31133.png)
 
 
 
