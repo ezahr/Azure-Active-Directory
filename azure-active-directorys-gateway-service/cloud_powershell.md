@@ -47,7 +47,8 @@ PS C:\WINDOWS\system32>
 
 
 ````
-n this post, I am going to share Powershell script to find and list devices that are registered by Azure AD users. We can use the Get-AzureADUserRegisteredDevice cmdlet to get the registered devices.
+In this post, I am going to share Powershell script to find and list devices that are registered by Azure AD users.
+We can use the Get-AzureADUserRegisteredDevice cmdlet to get the registered devices.
 
 Before proceed run the below command to connect Azure AD Powershell module.
 
