@@ -20,7 +20,7 @@ ApproximateLastLogonTimeStamp = $_.ApproximateLastLogonTimeStamp
 $Result | Select DeviceOwner,DeviceName,DeviceOSType,ApproximateLastLogonTimeStamp
 ````
 
-
+![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_07.png)
 
 ## Install-Module -Name AzureAD
 
