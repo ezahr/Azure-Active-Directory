@@ -102,5 +102,5 @@ $Result | Export-CSV "C:\AzureADJoinedDevices.csv" -NoTypeInformation -Encoding 
 ![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_11.png)
 ![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_12.png)
 ![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_13.png)
-![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_14.png)
+[![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_14.png)](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-service-is-on-net-core-3-1/)
 
