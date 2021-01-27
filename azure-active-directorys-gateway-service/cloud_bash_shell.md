@@ -1,1 +1,13 @@
 
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_00.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_01.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_02.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_03.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_04.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_05.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_06.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_07.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_08.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_09.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_10.png)
+![bash_shell](./../pictures/Azure_Active_Directory_gateway_on_bash-cloud-shell_11.png)
