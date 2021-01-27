@@ -14,3 +14,7 @@ was een belangrijk doel voor het team erachter. Het geroezemoes rond .NET Core's
 vooral omdat TechEmpower ASP.NET Core noemde als een van de snelste webframeworks ter wereld. 
 We hebben onze eigen benchmarks uitgevoerd op gateway-prototypes op .NET Core en de resultaten maakten de beslissing 
 erg gemakkelijk: we moeten onze service overzetten naar .NET Core
+
+U kunt de gateway van Azure AD niet als een resource maken in Azure Portal. Het is een omgekeerde proxy die wordt 
+gebruikt door andere openbare services die deel uitmaken van Azure AD. Wanneer u die services gebruikt (bijvoorbeeld Azure AD B2C), 
+worden de aanvragen automatisch doorgestuurd naar de gateway. 
