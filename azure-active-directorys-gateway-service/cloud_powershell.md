@@ -1,6 +1,6 @@
 [get-list-of-registered-azure-ad-apps-powershel](https://morgantechspace.com/2018/04/get-list-of-registered-azure-ad-apps-powershell.html)
 
-Eeb powershell-script delen om de lijst met Azure AD-toepassingen te vinden en op te halen die door uw bedrijf 
+Een powershell-script delen om de lijst met Azure AD-toepassingen te vinden en op te halen die door uw bedrijf 
 in de huidige tenant zijn geregistreerd. We kunnen de cmdlet Get-AzureADApplication gebruiken om alle geregistreerde apps op te halen.
 
 ````
