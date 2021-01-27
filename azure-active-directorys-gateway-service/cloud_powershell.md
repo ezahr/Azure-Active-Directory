@@ -1,4 +1,4 @@
-
+[get-list-of-registered-azure-ad-apps-powershel](https://morgantechspace.com/2018/04/get-list-of-registered-azure-ad-apps-powershell.html)
 
 ![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_00.png)
 ![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_01.png)
