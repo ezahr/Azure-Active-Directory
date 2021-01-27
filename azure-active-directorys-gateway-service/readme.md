@@ -18,3 +18,10 @@ erg gemakkelijk: we moeten onze service overzetten naar .NET Core
 U kunt de gateway van Azure AD niet als een resource maken in Azure Portal. Het is een omgekeerde proxy die wordt 
 gebruikt door andere openbare services die deel uitmaken van Azure AD. Wanneer u die services gebruikt (bijvoorbeeld Azure AD B2C), 
 worden de aanvragen automatisch doorgestuurd naar de gateway. 
+
+
+![bash_shell](./../pictures/router_wpa2_20200117_05.png_
+![bash_shell](./../pictures/router_wpa2_20200117_06.png)
+![bash_shell](./../pictures/router_wpa2_20200117_07.png)
+![bash_shell](./../pictures/router_wpa2_20200117_08.png)
+![bash_shell](./../pictures/router_wpa2_20200117_09.png)
