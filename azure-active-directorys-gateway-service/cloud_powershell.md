@@ -1,6 +1,6 @@
 
 
-![cloud powershell](./pictures/Azure_Active_Directory_gateway_on_powershell_00.png)
+![cloud powershell](./../pictures/Azure_Active_Directory_gateway_on_powershell_00.png)
 ![cloud powershell](./pictures/Azure_Active_Directory_gateway_on_powershell_01.png)
 ![cloud powershell](./pictures/Azure_Active_Directory_gateway_on_powershell_02.png)
 ![cloud powershell](./pictures/Azure_Active_Directory_gateway_on_powershell_03.png)
