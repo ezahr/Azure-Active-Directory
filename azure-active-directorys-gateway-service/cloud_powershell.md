@@ -59,7 +59,9 @@ $user = Get-AzureADUser -SearchString "UserName"
 Get-AzureADUserRegisteredDevice -ObjectId  $user.ObjectId -All $true
 List registered devices of all Azure AD users:
 
-To get a report of the device list for all Azure AD users, first, we need to get users by Get-AzureADUser cmdlet and pipe the user list to Get-AzureADUserRegisteredDevice cmdlet.
+To get a report of the device list for all Azure AD users, first, 
+we need to get users by Get-AzureADUser cmdlet 
+and pipe the user list to Get-AzureADUserRegisteredDevice cmdlet.
 
 $Result=@()
 $Users = Get-AzureADUser -All $true | Select UserPrincipalName,ObjectId
