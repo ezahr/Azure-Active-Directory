@@ -2,6 +2,7 @@
 
 [create-notebook-visualize-data](https://docs.microsoft.com/nl-nl/azure/cosmos-db/create-notebook-visualize-data)
 
+## dotnet new console
 
 ````
 osxs-mbp:virtual-insanity osx$ mkdir helloworld
@@ -34,3 +35,12 @@ HelloWorld.csproj	Program.cs		obj
 osxs-mbp:HelloWorld osx$ 
 
 ````
+
+
+## dotnet add package Microsoft.Azure.Cosmos --version 3.16.0
+
+https://www.nuget.org/packages/Microsoft.Azure.Cosmos/
+
+## dotnet add package Microsoft.Extensions.Configuration.Json --version 5.0.0
+
+https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Json/
