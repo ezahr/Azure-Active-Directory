@@ -2,6 +2,8 @@
 
 [create-notebook-visualize-data](https://docs.microsoft.com/nl-nl/azure/cosmos-db/create-notebook-visualize-data)
 
+[pluralsight C#(https://app.pluralsight.com/course-player?clipId=13239d14-98fd-4ce8-88bd-f9ef8fc1f416)
+
 ## cd /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld
 
 ````
