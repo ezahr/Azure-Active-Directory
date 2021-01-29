@@ -2,7 +2,7 @@
 
 [create-notebook-visualize-data](https://docs.microsoft.com/nl-nl/azure/cosmos-db/create-notebook-visualize-data)
 
-## mkdir s
+## cd /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld
 
 ````
 osxs-mbp:virtual-insanity osx$ mkdir helloworld
@@ -33,7 +33,7 @@ osxs-mbp:HelloWorld osx$
 
 ````
 
-
+## cd /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld
 ## dotnet add package Microsoft.Azure.Cosmos --version 3.16.0
 
 https://www.nuget.org/packages/Microsoft.Azure.Cosmos/
@@ -41,3 +41,42 @@ https://www.nuget.org/packages/Microsoft.Azure.Cosmos/
 ## dotnet add package Microsoft.Extensions.Configuration.Json --version 5.0.0
 
 https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Json/
+
+
+## /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld/HelloWorld.csproj
+````
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.16.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
+
+````
+
+## /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld/Program.cs
+
+````
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+````
+
+
