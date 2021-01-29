@@ -2,7 +2,7 @@
 
 [create-notebook-visualize-data](https://docs.microsoft.com/nl-nl/azure/cosmos-db/create-notebook-visualize-data)
 
-## dotnet new console
+## mkdir s
 
 ````
 osxs-mbp:virtual-insanity osx$ mkdir helloworld
@@ -10,16 +10,13 @@ osxs-mbp:virtual-insanity osx$ cd helloworld/
 osxs-mbp:helloworld osx$ mkdir src
 osxs-mbp:helloworld osx$ mkdir test
 osxs-mbp:helloworld osx$ cd src
-osxs-mbp:src osx$ cd src
--bash: cd: src: No such file or directory
-osxs-mbp:src osx$ pwd
-/Users/osx/Projects/scratch/virtual-insanity/helloworld/src
 osxs-mbp:src osx$ mkdir HelloWorld
-osxs-mbp:src osx$ ls
-HelloWorld
 osxs-mbp:src osx$ cd HelloWorld/
 osxs-mbp:HelloWorld osx$ pwd
 /Users/osx/Projects/scratch/virtual-insanity/helloworld/src/HelloWorld
+`````
+## dotnet new console
+````
 osxs-mbp:HelloWorld osx$ dotnet new console
 The template "Console Application" was created successfully.
 
