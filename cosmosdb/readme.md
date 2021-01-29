@@ -79,4 +79,13 @@ namespace HelloWorld
 
 ````
 
+|KEY|d[atabaseAccounts/cosmos-bdmcc/keys](https://portal.azure.com/#@boschpeteroutlook.onmicrosoft.com/resource/subscriptions/87d504e9-46e8-4b87-8f72-f207ee8e6dad/resourceGroups/cloud-shell-storage-westeurope/providers/Microsoft.DocumentDb/databaseAccounts/cosmos-bdmcc/keys) |
+|--------|------------------------------------------------------------------|
+|URI|https://cosmos-bdmcc.documents.azure.com:443/|
+|primary key|kHUP25fn8kvWoIOVJTUJB9xqjSnHjzMMAOcavs50yOrdAO2ooJiQEIp2K5f1rYj2RiEoDzcEtuOwUViiCn33iQ==|
+||AccountEndpoint=|https://cosmosbdmcc.documents.azure.com:443/;AccountKey=kHUP25fn8kvWoIOVJTUJB9xqjSnHjzMMAOcavs50yOrdAO2ooJiQEIp2K5f1rYj2RiEoDzcEtuOwUViiCn33iQ==;|
+|SECONDARY KEY|Cq2nfhzzVJJvje8fcu6IxZ2LkDU7OzxC5bexrdzTj9J1gUPwfuDc43rLu5vns0ExEyGgJDGj0mkxNFGyAq4Oqw== |
+|PRIMARY CONNECTION STRING| Cq2nfhzzVJJvje8fcu6IxZ2LkDU7OzxC5bexrdzTj9J1gUPwfuDc43rLu5vns0ExEyGgJDGj0mkxNFGyAq4Oqw==|
+|SECONDARY CONNECTION STRING|AccountEndpoint=https://cosmos-bdmcc.documents.azure.com:443/;AccountKey=Cq2nfhzzVJJvje8fcu6IxZ2LkDU7OzxC5bexrdzTj9J1gUPwfuDc43rLu5vns0ExEyGgJDGj0mkxNFGyAq4Oqw==;   |
+
 
